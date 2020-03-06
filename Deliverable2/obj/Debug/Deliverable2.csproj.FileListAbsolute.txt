@@ -1,0 +1,5 @@
+/Users/dreamy/Projects/Deliverable2/Deliverable2/bin/Debug/Deliverable2.exe
+/Users/dreamy/Projects/Deliverable2/Deliverable2/bin/Debug/Deliverable2.pdb
+/Users/dreamy/Projects/Deliverable2/Deliverable2/obj/Debug/Deliverable2.csprojAssemblyReference.cache
+/Users/dreamy/Projects/Deliverable2/Deliverable2/obj/Debug/Deliverable2.exe
+/Users/dreamy/Projects/Deliverable2/Deliverable2/obj/Debug/Deliverable2.pdb
