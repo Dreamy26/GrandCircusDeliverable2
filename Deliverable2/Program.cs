@@ -17,8 +17,9 @@ namespace Deliverable2
                 {
 
 
-                    Console.WriteLine("So you want to send a coded message?");
+                    Console.WriteLine("So you want to send a coded message, type your message?");
                     input = Console.ReadLine().ToUpper();
+                    Console.WriteLine(input);
 
 
                     foreach (char letter in input)
@@ -27,10 +28,10 @@ namespace Deliverable2
                        
                         message += messageLetter + "-";
                        
-                        checksum = checksum + letter;
+                        checkSum = checkSum + letter;
                     }
 
-                    string value = $"Your Message checksum is {checksum}";
+                    string value = $"Your Message checkSum is {checkSum}";
                     Console.WriteLine(value);
                     Console.WriteLine($"Your Encoded message is {message}");
                     Console.ReadLine();
